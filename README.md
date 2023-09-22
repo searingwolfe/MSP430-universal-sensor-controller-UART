@@ -8,9 +8,9 @@
 
 Hover over images to see more information.
 
-![alt text](https://github.com/searingwolfe/MSP430-universal-sensor-controller-UART/blob/master/Universal_Sensor_Controller_UART_Program/LowOutput_testdark.JPG?raw=true "Low Output (purple LED) turns on when the ADC value goes below the Low Bound (red LED), when the OFF-Timer duration has passed (green LED), and when the ON-Timer duration has passed (yellow LED). The low output stays on for the same length of time that the ON-Timer takes to count until it turns on/passes (length of time that yellow LED is off).")
+![alt text](https://github.com/searingwolfe/MSP430-universal-sensor-controller-UART/blob/master/Universal_Sensor_Controller_UART_Program/LowOutput_testdark.JPG "Low Output (purple LED) turns on when the ADC value goes below the Low Bound (red LED), when the OFF-Timer duration has passed (green LED), and when the ON-Timer duration has passed (yellow LED). The low output stays on for the same length of time that the ON-Timer takes to count until it turns on/passes (length of time that yellow LED is off).")
 
-![alt text](https://github.com/searingwolfe/MSP430-universal-sensor-controller-UART/blob/master/Universal_Sensor_Controller_UART_Program/HighOutput_testbright.JPG?raw=true "High Output (blue LED) turns on when the ADC value goes above the High Bound (orange LED), when the OFF-Timer duration has passed (green LED), and when the ON-Timer duration has passed (yellow LED). The low output stays on for the same length of time that the ON-Timer takes to count until it turns on/passes (length of time that yellow LED is off).")
+![alt text](https://github.com/searingwolfe/MSP430-universal-sensor-controller-UART/blob/master/Universal_Sensor_Controller_UART_Program/HighOutput_testbright.JPG "High Output (blue LED) turns on when the ADC value goes above the High Bound (orange LED), when the OFF-Timer duration has passed (green LED), and when the ON-Timer duration has passed (yellow LED). The low output stays on for the same length of time that the ON-Timer takes to count until it turns on/passes (length of time that yellow LED is off).")
 
 ```
 A breadboard-simulated demo of the pH Pump Controller over UART (now named the Universal Sensor Controller),
